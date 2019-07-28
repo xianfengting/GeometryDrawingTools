@@ -1,0 +1,8 @@
+<resources>
+    <string name="launching">启动中</string>
+    <string name="inProgress">正在进行</string>
+
+    <string name="app_name">几何绘制工具(内部开发版)</string>
+
+    <string name="toast_startingGeometryManagerService">正在启动几何管理器服务</string>
+</resources>
